@@ -122,7 +122,7 @@ export default function TextForm(props) {
         className="container my-5"
         style={{ color: props.mode === "light" ? "black" : "white" }}
       >
-        <h2>Summery</h2>
+        <h2>Summary</h2>
         <p>
           <span className="fs-3">
             {
